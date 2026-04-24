@@ -1,4 +1,4 @@
-# 2 - Empatizar
+# 1 - Empatizar
 *"Esta etapa pressupõe o registro de todas as impressões e informações coletadas sobre as conversas com clientes, pesquisa do seu ambiente e área, bem como as personas envolvidas. 
 Isso compreende o domínio, funcionamento da instituição/empresa, dos setores envolvidos, ouvindo e assistindo os  procedimentos e/ou processos da rotina do trabalho do cliente.*
 

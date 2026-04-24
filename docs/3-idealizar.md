@@ -1,4 +1,4 @@
-# 1 - Idealizar
+# 3 - Idealizar
 *“Este cartão pretende apontar as melhores soluções para cada situação-problema a partir da recontagem de histórias sob o ponto de vista do cliente.  
 Nesta direção, pretende-se prever funcionalidades e os primeiros elementos de interface para seus usuários-alvo”*
 
